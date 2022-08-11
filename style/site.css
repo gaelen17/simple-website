@@ -35,9 +35,10 @@ ul#menu li {
 
 ul#menu li a {
     background-color: #ffffff;
+
     padding: 10px 20px;
     text-decoration: none;
-    color: yellow;
+    color: mediumblue;
     border-radius: 4px 4px 0 0;
 }
 
